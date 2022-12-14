@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @killercloud24
 - 👀 I’m interested in Ethical Hacking
 - 🌱 I’m currently preparing for OSCP 
-- 💞️ I’m looking to collaborate on Ethical Hacking & Security Research
+- 💞️ I’m looking to collaborate on Ethical Hacking & Cyber Security Research
 - 📫 Reach me on https://www.instagram.com/sh4d0wr4nger
 
 <!---
